@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CountryDatabase
+comment0.text=\r\n\ Description\:\ maintains\ the\ collection\ of\ the\ countries\ of\r\n\ the\ world\ \u2013\ an\ ArrayList\ of\ elements\ of\ the\ class\ Country.\u0000\r\n\r\n\ @author\ Christian\ Tsoungui\ Nkoulou\r\n\ @version\ 3/17/18\r\n
+comment1.params=
+comment1.target=CountryDatabase()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CountryDatabase\r\n
+comment10.params=population
+comment10.target=java.util.ArrayList\ searchCountriesWithPopulation(double)
+comment11.params=continent
+comment11.target=java.util.ArrayList\ topTenGdpCountries(java.lang.String)
+comment2.params=filename
+comment2.target=void\ readCountriesData(java.lang.String)
+comment3.params=
+comment3.target=int\ countAllCountries()
+comment4.params=
+comment4.target=java.util.ArrayList\ getAllCountries()
+comment5.params=continent
+comment5.target=Country\ highestGdp(java.lang.String)
+comment6.params=continent
+comment6.target=Country\ smallestArea(java.lang.String)
+comment7.params=countryName
+comment7.target=java.lang.String\ searchForCapital(java.lang.String)
+comment8.params=countryName
+comment8.target=Country\ findCountryDetails(java.lang.String)
+comment9.params=continent
+comment9.target=java.util.ArrayList\ searchCountriesInContinent(java.lang.String)
+numComments=12
